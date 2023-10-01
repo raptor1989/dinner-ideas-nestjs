@@ -14,6 +14,13 @@
 npm run build
 npm run start:prod
 ```
+  ## Tech Stack
+  
+  - Typescript
+  - Node.js
+  - Nest.js
+  - TypeORM
+  - PostgreSQL
   
   ---
   
